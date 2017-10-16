@@ -1,6 +1,6 @@
 # tuile graphique
 
-ce projet est de formaliser des pistes de design graphiques sous forme des tuile graphique.
+ce projet est de formaliser des pistes de design graphiques sous forme des tuiles graphiques.
 site web publie des romans science-fiction
 4 plans de travails 
     1.page d'accueil
